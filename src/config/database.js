@@ -1,3 +1,5 @@
+// Update de Config
+
 module.exports = {
   dialect: 'postgres',
   host: 'motty.db.elephantsql.com',
